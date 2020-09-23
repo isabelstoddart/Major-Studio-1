@@ -1,4 +1,5 @@
-**What Makes a Woman?** a visualization of portraits of women in The Smithsonian National Portrait Gallery by Isabel Stoddart
+# What Makes a Woman? 
+### A visualization of portraits of women in The Smithsonian National Portrait Gallery by Isabel Stoddart
 
 ![](Images/What_makes_a_woman_prototype.png)
 
