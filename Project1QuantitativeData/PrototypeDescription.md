@@ -56,8 +56,6 @@ Neutral color (Black or White)
 
 ## Type Font
 
-![](Images/TypeFont.png)
-
 ### Title
 
 For the words “What makes a” I am using a cursive more feminine font and then for “Women” I am using a neutral font to draw a contrast to what people may think a women (feminine) is versus what a women really is (neutral, a women can be feminine or not)
@@ -66,6 +64,6 @@ For the words “What makes a” I am using a cursive more feminine font and the
 
 I am going to use the neutral font for all the other text
 
-Feminine font: Dancing Script
+Feminine font: Savoye LET
 
-Neutral font: Aria
+Neutral font: Arial
