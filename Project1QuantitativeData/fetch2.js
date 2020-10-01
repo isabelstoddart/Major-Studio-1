@@ -3,7 +3,7 @@
 
 
 // put your API key here;
-const apiKey = "Fg1HfyISC22W6Rf77CpROJthHS3vkz7JYcPj2Ysf";  
+const apiKey = "";  
 console.log("hi")
 
 // Access to individual objects by ID
