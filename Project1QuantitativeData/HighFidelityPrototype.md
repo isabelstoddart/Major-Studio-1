@@ -26,7 +26,7 @@ I am new to d3.js so for now I am just using sample code but I need to 	change i
 An important thing to note is that looking beyond woman’s representation throughout the years, the national portrait gallery just might not have portraits of women in particular fields (they may be missing from the CC0 enabled data but also may be missing from the collection as a hold). So, it may go beyond women’s representation in these actual fields and be more about the collection of women’s portraits that The NPG has.
 
 ### Next Steps
-* Make graph more of my own creation (right now it is based off of code (link found above). I want to make the graph more interactive so that you see counts when you roll over each bar.
+* Make graph more of my own creation (right now it is based off of sample code (link found above)). I want to make the graph more interactive so that you see counts when you roll over each bar.
 * Possibly incorporate images into the visual so when you roll your mouse over a bar a portrait pops up.
 * Possibly have have another bar graph with subgroups pop up when you click on a bar.
 * Turn prototype into interactive webpage on GitHub pages
