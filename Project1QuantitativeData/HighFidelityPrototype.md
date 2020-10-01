@@ -28,6 +28,6 @@ An important thing to note is that looking beyond woman’s representation throu
 ### Next Steps
 * Make graph more of my own creation (right now it is based off of sample code (link found above)). I want to make the graph more interactive so that you see counts when you roll over each bar.
 * Possibly incorporate images into the visual so when you roll your mouse over a bar a portrait pops up.
-* Possibly have have another bar graph with subgroups pop up when you click on a bar.
+* Possibly have another bar graph with subgroups pop up when you click on a bar.
 * Turn prototype into interactive webpage on GitHub pages
 * Make path to get final dataset through code (right now it is partially manmade)
