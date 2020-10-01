@@ -30,4 +30,4 @@ An important thing to note is that looking beyond woman’s representation throu
 * Possibly incorporate images into the visual so when you roll your mouse over a bar a portrait pops up.
 * Possibly have another bar graph with subgroups pop up when you click on a bar.
 * Turn prototype into interactive webpage on GitHub pages
-* Make path to get final dataset through code (right now it is partially manmade)
+* Make path to get final dataset through code (right now it is done manually)
