@@ -1,6 +1,6 @@
 # Carl Newman's Faceless Nudes
 
-[Link to prototype] (https://www.figma.com/file/qLKx6wOiKyuQGROphYg5zb/QualitativeViz?node-id=0%3A1)
+[Link to prototype] https://www.figma.com/file/qLKx6wOiKyuQGROphYg5zb/QualitativeViz?node-id=0%3A1
 
 ### Description
 
@@ -13,7 +13,8 @@ Smithsonian American Art Musuem's collection of nudes by Carl Newman. 258 Drawin
 ### Applications Used
 
 * D3.js for display of images
-* P5.js and ML5.js for facial recognition
+* P5.js
+* ML5.js FaceApi [link to website] https://learn.ml5js.org/#/reference/face-api
 * Figma for prototype
 
 ### Color Scheme
