@@ -33,4 +33,3 @@ Open Sans (Bold for headers, regular for body text). I want to keep a neutral te
 ### Things to Consider
 
 * Changing the display of images to something other than a gallery view
-
